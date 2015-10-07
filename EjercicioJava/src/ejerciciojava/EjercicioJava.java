@@ -24,7 +24,7 @@ public class EjercicioJava {
         
         suma=edad1+edad2;
         
-        System.out.println("La edad de los dos es: "+suma);
+        System.out.println("La edad de los dos es: "+(suma+suma));
         
     }
     
