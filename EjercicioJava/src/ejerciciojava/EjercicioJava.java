@@ -16,6 +16,11 @@ public class EjercicioJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        int edad1=27;
+        int edad2=19;
+        
+        System.out.println("Edad Carly: "+edad1+" Edad Jorge: "+edad2);
     }
     
 }
