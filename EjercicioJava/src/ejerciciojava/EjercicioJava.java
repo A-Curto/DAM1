@@ -19,8 +19,13 @@ public class EjercicioJava {
         
         int edad1=27;
         int edad2=19;
-        
+        int suma;
         System.out.println("Edad Carly: "+edad1+" Edad Jorge: "+edad2);
+        
+        suma=edad1+edad2;
+        
+        System.out.println("La edad de los dos es: "+suma);
+        
     }
     
 }
