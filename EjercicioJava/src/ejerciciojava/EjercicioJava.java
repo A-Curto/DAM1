@@ -26,6 +26,7 @@ public class EjercicioJava {
         
         System.out.println("La edad de los dos es: "+(suma+suma));
         
+        System.out.println("Estos dos chavales no se encuentran en esta clase");
     }
     
 }
